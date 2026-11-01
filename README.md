@@ -31,4 +31,9 @@ This is an analytical, idealized model—not an experimental validation or a CFD
 
 ## Project materials
 
-The Python notebook/code, generated plots, CAD views, and research report are being organized for publication in this repository.
+- [Research notebook](De_Laval_Nozzle_Research.ipynb) — executable Python analysis and generated plots.
+- CAD views and the research report will be added separately after review.
+
+### Reproduce the calculations
+
+Install dependencies with `pip install -r requirements.txt`, then open and run the notebook using Jupyter or Google Colab.
